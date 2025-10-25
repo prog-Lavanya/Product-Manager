@@ -1,5 +1,5 @@
 
-### FastAPI Product Management System ###
+# FastAPI Product Management System #
  Designed and implemented a backend API system using FastAPI for handling product data in a SQL Server database. Focused on environment management, middleware setup (CORS), and CRUD functionality for seamless data operations.
 
 
